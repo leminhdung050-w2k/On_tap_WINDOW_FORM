@@ -3,4 +3,4 @@
 - **Mã số sinh viên:** 24810320213
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình .NET
-- **Tên bài tập:** Bài 1: Máy tính tính cước dịch vụ & Giảm giá (Service Charge Calculator)
+- **Tên bài tập:** Bài tập 1 đến Bài tập 5 (Liên quan đến ôn tập window form)
