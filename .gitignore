@@ -1,0 +1,9 @@
+# Thư mục build của C#
+[Bb]in/
+[Oo]bj/
+
+# Thư mục và file cấu hình của Visual Studio
+.vs/
+
+# Bỏ qua file tuỳ chỉnh môi trường (nếu có)
+*.env
