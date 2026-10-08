@@ -7,3 +7,6 @@
 
 # Bỏ qua file tuỳ chỉnh môi trường (nếu có)
 *.env
+bin/
+obj/
+.vs/
