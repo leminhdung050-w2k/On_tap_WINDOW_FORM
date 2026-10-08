@@ -5,6 +5,7 @@
 - **Tên môn học:** Lập trình .NET
 - **Tên bài tập:** Bài 4: Sơ đồ chọn vị trí chỗ ngồi / Đặt bàn hẹn giờ (Interactive Slot Booking)
 
-<img width="1366" height="768" alt="A2" src="https://github.com/user-attachments/assets/90d379c2-0d8e-4dbe-8079-b3307121ff5b" />
-<img width="1366" height="768" alt="A1" src="https://github.com/user-attachments/assets/6b772528-a8aa-47e4-a59e-ca88f46aeb2f" />
+<img width="770" height="463" alt="A2" src="https://github.com/user-attachments/assets/9692e4ba-c825-4583-b4c0-d92c17b9f042" />
+<img width="766" height="443" alt="A1" src="https://github.com/user-attachments/assets/c4ead886-3203-4f97-b11f-9df5913de2ec" />
+
 
